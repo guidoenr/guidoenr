@@ -4,7 +4,6 @@
 ```python
 response={
   'status': 'k3rnel-p4nic',
-  'cause': 'efeedobleerreaerreiferrari',
   'fixed': True
 }
 ```
