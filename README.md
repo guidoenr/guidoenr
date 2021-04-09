@@ -2,10 +2,7 @@
 <img alt="guidoenr stats" src="https://github-readme-stats.vercel.app/api?username=guidoenr&show_icons=true&theme=monokai" style="vertical-align:middle"> 
 
 ```python
-response={
-  'status': 'k3rnel-p4nic',
-  'fixed': True
-}
+'no amount of money ever bought a second of time'
 ```
 
 
