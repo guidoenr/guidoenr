@@ -1,7 +1,12 @@
-<img src="https://user-images.githubusercontent.com/47611900/99095951-8162aa00-25b4-11eb-8dca-d8395eaf8a20.gif" alt="Coder GIF" width="367" height="126" style="vertical-align:middle">
+`@guidoenr`
+<a href="https://www.animatedimages.org/cat-fire-90.htm"><img src="https://www.animatedimages.org/data/media/90/animated-fire-image-0216.gif" border="0" alt="animated-fire-image-0216" /></a>
+
+
+
 
 <img alt ="most used languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidoenr&langs_count=5" >
 <img alt="guidoenr stats" src="https://github-readme-stats.vercel.app/api?username=guidoenr&show_icons=true&theme=gotham" style="vertical-align:middle"> 
+
 
 ```python
 'no amount of money ever bought a second of time'
