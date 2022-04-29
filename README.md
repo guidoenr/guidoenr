@@ -1,4 +1,8 @@
-`@guidoenr` 🇦🇷
+* Guido Enrique 
+* Software Developer at @Slingr
+* Information Systems Engineering at @UTN
+
+See my [Portfolio](guidoenr-portfolio.herokuapp.com)
 
 
 <img alt="guidoenr stats" src="https://github-readme-stats.vercel.app/api?username=guidoenr&show_icons=true&theme=gotham" style="vertical-align:middle"> 
@@ -9,4 +13,4 @@
 ```
 
 
-yusername&
+
