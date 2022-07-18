@@ -1,6 +1,6 @@
-* Guido Enrique 
-* Software Developer at @Slingr-stack @veritone
-* Information Systems Engineering at @UTN
+## Guido Enrique 
+* :us: Software Developer at @Slingr-stack @veritone
+* :argentina: Information Systems Engineering at @UTN
 
 See my [Portfolio](https://guidoenr-portfolio.herokuapp.com)
 
