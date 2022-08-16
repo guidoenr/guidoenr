@@ -1,6 +1,6 @@
 
 ## Guido Enrique 
-#### :us: Software Developer at @veritone - @Slingr-stack
+#### :us: Software Engineer at @veritone - @Slingr-stack
 #### :argentina: Information Systems Engineering at @UTN
 
 ## ![](https://komarev.com/ghpvc/?username=guidoenr&label=Profile+Views)
