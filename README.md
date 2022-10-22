@@ -37,7 +37,6 @@
          <th>Databases</th>
          <th>Clouds</th>
          <th>OS<th>
-         <th>Other techs</th>
       </tr>
    </thead>
    <tbody>
