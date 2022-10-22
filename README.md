@@ -54,3 +54,44 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
+
+
+<table>
+   <thead>
+      <tr>
+         <th>Programming Languages</th>
+         <th>Databases</th>
+         <th>Clouds</th>
+         <th>Other techs</th>
+      </tr>
+   </thead>
+   <tbody>
+<tr>
+<td>
+
+                             
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> 
+
+</td>
+
+
+<td>
+
+data2
+
+
+</td>
+<td> 
+
+
+data3
+
+
+</td>
+</tr>
+   </tbody>
+</table>
