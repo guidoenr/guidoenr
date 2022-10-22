@@ -5,6 +5,7 @@
 
 ## ![](https://komarev.com/ghpvc/?username=guidoenr&label=Profile+Views)
 
+> There are several frameworks, clouds and others technologies that are not available here
 
 <table>
    <thead>
