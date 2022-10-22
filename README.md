@@ -5,29 +5,6 @@
 
 ## ![](https://komarev.com/ghpvc/?username=guidoenr&label=Profile+Views)
 
-## Programminlanguaes                                                                                                                                                             
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> 
-
-
-## Cloud
-
-
-## Other techs
-
-
-## Databases
-
-
-## Os
-
-
-
-
-
 
 <table>
    <thead>
