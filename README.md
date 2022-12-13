@@ -1,6 +1,7 @@
 
-### :us: Software Engineer at @veritone
-### :argentina: Information Systems Engineering at @UTN
+:us: Software Engineer at @veritone
+
+:argentina: Information Systems Engineering at @UTN
 
 # ![](https://komarev.com/ghpvc/?username=guidoenr&label=Profile+Views)
 
