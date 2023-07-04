@@ -1,8 +1,4 @@
 
-:us: Software Engineer at @veritone
-
-:argentina: Information Systems Engineering at @UTN
-
 # ![Profile Views](https://komarev.com/ghpvc/?username=guidoenr&color=green&style=flat-square&message=found+the+bash+bomb?)
 
 
